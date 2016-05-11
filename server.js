@@ -18,3 +18,6 @@ request("http://bloomberg.com", function(error, response, body){
     })
   };
 });
+
+// var x = "yup"
+// document.getElementById("here").innerHTML = x;
